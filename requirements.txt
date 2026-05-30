@@ -1,0 +1,6 @@
+streamlit
+streamlit-searchbox
+pandas
+openpyxl
+requests
+pydantic
